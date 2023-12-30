@@ -1,2 +1,4 @@
-# TheInternetAndWebPageDesign-PositionAndTablePadding
- The Internet And Web Page Design Position And Table Padding Assignment
+# The Internet And Web Page Design Position And Table Padding Assignment
+This assignment consists of two websites that showcase the different ways the CSS position property can be used and one website that showcases how a table's cell spacing and border can be changed. The positionFormatingEx.html file showcases fixed positioning by having the user scroll the page up and down to see the fixed images. You may need to resize your internet browser window to get a scroll bar to appear as well. The relativePositionEx.html file showcases relative positioning by placing an image to the top right of the page using the absolute position property value. The paddingEx.html file showcases the cell spacing and border properties of the table element. These values can be altered to see their effects on the page.
+
+To view the websites yourself, download the AssignmentFiles.rar file and run the positionFormatingEx.html file, the relativePositionEx.html file, and the paddingEx.html file.
